@@ -25,8 +25,8 @@ console.log(distance * 2);
 - Сustomer service specialist (Telecommunications 2016-2022)
 ## Education
 - **University:** Belarusian State University of Informatics and Radioelectronics, Software Engineer (2013-2017)
-- College: Minsk College of Entrepreneurship, Technician Programmer (2009-2013)
-- Online course: 
+- **College:** Minsk College of Entrepreneurship, Technician Programmer (2009-2013)
+- **Online course:** 
 1.  WayUp, Web layout designer: getting started (2022)
 2.  WayUp, Javascript: diving in (2022)
 ## English
